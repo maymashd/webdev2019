@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <meta charset="UTF-8">
+        <link w rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2_QiizfKFTY-k6CADdxJubWw8dJdBXMIBOm8lFWo7Ceo0R5b" type="image/x-icon">
+        <title>Instagram</title>
+        <style>
+            .img1 {
+                width: 365px;
+                float: left;
+                margin-left:400px;
+                margin-top:150px;
+                
+            }
+            #img2 {
+                width:350px;
+            }
+            .phrase1 {
+                
+                text-align: center;
+                color: #939393;
+            }
+            #img4 {
+                width: 18px;
+                height: 18px;
+            
+                position:relative;
+                background-color: white;
+                
+            }
+            #phrase2 {
+                   color:#565353; 
+                   cursor: pointer;
+            }
+            #f1 {
+            background-color: rgb(255, 255, 255);
+            float: right;
+            margin-right: 350px;
+            margin-top: 70px;
+            height: 616px;
+            width: 350px;
+            text-align: center;
+            border:2px solid dimgray;  
+            }
+            #div1 {
+                background-color: rgb(255, 255, 255);
+                float: right;
+                margin-top: 30px;
+                margin-right:350px;
+                margin-bottom: 300px;
+                border: 2px solid dimgray;
+                width: 350px;
+                height:40px;
+                text-align: center;
+                padding-top:23px;
+            }
+            .f_button {
+                margin-top: 10px;
+                  margin-left:25px;
+                  border-radius: 10px;
+                  background-color: #4a92f7; 
+                  color:white; 
+                  width: 300px;
+                  height: 35px;
+                  cursor: pointer;
+            }
+            .f_button :hover {
+                background-color: #2508dd;
+            }
+            a { 
+                text-decoration: none; /* Отменяем подчеркивание у ссылки */
+              } 
+               #div2 {
+                   
+                   width:200px;
+                   height:100px;
+                   margin-top:780px;
+                   margin-left: 900px;
+                   position: absolute;
+               } 
+            #phrase3 {
+                float: right;
+            }
+            
+            .info {
+                margin-top:7px;
+                border-radius: 3px;
+                color:#939393;
+            }
+            #logo1{
+                position:absolute;
+                width:136px;
+                height: 40px;
+                margin-top: 850px;
+                z-index: 2;
+            }
+            #logo2{
+                position:absolute;
+                width:136px;
+                height: 40px;
+                margin-top: 850px;
+                margin-left:150px;
+                z-index: 1;
+            }
+            #logo3{
+                position:absolute;
+                width:136px;
+                height: 40px;
+                margin-top: 850px;
+                margin-left:299px;
+                z-index: 3;
+            }
+            #logo4{
+                position:absolute;
+                width:700px;
+                margin-top: 990px;
+
+                z-index: 4;
+            }
+            body {
+                background-color: rgb(250, 250, 250);
+                
+            }
+        </style>
+      </head>
+    
+    <body>
+        <img class="img1" src="images/img-1.jpg">
+       
+        <form name="f1" id="f1" method="post" action="enter_data.php">
+                <img id="img2"  src="images/first.jpg">
+                <h2 class="phrase1">Зарегистрируйтесь, чтобы смотреть фото и видео ваших друзей.
+                    </h2>
+                      
+                    <a href="https://www.facebook.com/"> <button class="f_button" type="button">
+                            <img id="img4" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-01-512.png" id="face">
+                            Войти через Facebook
+                        </button> </a>
+                    <br>
+                    <h2 class="phrase1">__________или__________</h2>    
+                    
+                <input required name="email" class="info" type="email" size="35" placeholder="Моб. телефон или эл.адрес" /> <br />
+                <input required name="name" class="info" type="text" size="35" placeholder="Имя и фамилия" /> <br />
+                <input required name="nick" class="info" type="text" size="35" placeholder="Имя пользователя" /> <br />
+                <input required name="password" class="info" type="password" size="35"  placeholder="password" /> <br />
+                
+                <a href="https://www.facebook.com/"> <button class="f_button" type="button">
+                        
+                        Регестрация
+                    </button> </a>
+                <p class="info">Регистрируясь, вы принимаете <br> наши <a href="https://help.instagram.com/1896641480634370?ref=ig" id=phrase2> Условия, Политику <br> использования данных и <br> Политику в отношении файлов <br> cookie. </a></p> 
+                </form>
+                <div id="div1">Есть аккаунт? <a style="color:dodgerblue">Вход</a></div><br>
+                <div id="div2"><p>Установите приложение.</p></div>   
+                <img id="logo1" src="https://www.instagram.com/static/images/appstore-install-badges/badge_ios_russian-ru.png/bfba6d0fd6bd.png">
+                <img id="logo2" src="https://www.instagram.com/static/images/appstore-install-badges/badge_android_russian-ru.png/4c70948c09f3.png">
+                <img id="logo3" src="https://www.instagram.com/static/images/appstore-install-badges/badge_microsoft_russian-ru.png/5015b6cf7a69.png">
+                <img id="logo4" src="images/foot.jpg">
+                
+    </body>
+    
+
+</html>
