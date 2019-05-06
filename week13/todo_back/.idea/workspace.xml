@@ -2,16 +2,410 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bac5ae5-342a-40a7-aabd-ce8b8bb80fee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../week11/todo_back/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week11/todo_back/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__ch_qos_logback_logback_classic_1_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__ch_qos_logback_logback_core_1_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_8_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_8_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_github_tototoshi_slick_joda_mapper_2_12_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_lightbend_akka_akka_stream_alpakka_amqp_2_12_0_18_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_rabbitmq_amqp_client_5_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_12_2_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_akka_akka_http_2_12_10_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_akka_akka_http_core_2_12_10_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_akka_akka_http_spray_json_2_12_10_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_akka_akka_http_xml_2_12_10_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_akka_akka_parsing_2_12_10_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_akka_akka_protobuf_2_12_2_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_akka_akka_slf4j_2_12_2_5_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_akka_akka_stream_2_12_2_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_config_1_3_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_slick_slick_2_12_3_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_slick_slick_hikaricp_2_12_3_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_typesafe_ssl_config_core_2_12_0_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__com_zaxxer_HikariCP_3_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__de_heikoseeberger_akka_http_json4s_2_12_1_20_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__io_spray_spray_json_2_12_1_3_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__kz_one_lab_movie_domain_2_12_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_json4s_json4s_ast_2_12_3_5_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_json4s_json4s_core_2_12_3_5_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_json4s_json4s_jackson_2_12_3_5_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_json4s_json4s_native_2_12_3_5_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_json4s_json4s_scalap_2_12_3_5_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_postgresql_postgresql_42_2_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_25_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/modules/kazakh-business-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/modules/kazakh-business.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$14470583df6113d59286$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$14470583df6113d59286.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$14470583df6113d59286.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$14c15ce5d9f1dc1b6f34$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$14c15ce5d9f1dc1b6f34.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$14c15ce5d9f1dc1b6f34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$1ce4254735cec8fd2ef8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$1ce4254735cec8fd2ef8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$1ce4254735cec8fd2ef8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$2528ccde00208cf44244$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$2528ccde00208cf44244.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$2528ccde00208cf44244.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$2cca395c0fd9cc3e940d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$2cca395c0fd9cc3e940d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$2cca395c0fd9cc3e940d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$2cca395c0fd9cc3e940d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$66da9135bab1fbaa180f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$66da9135bab1fbaa180f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$66da9135bab1fbaa180f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$96151f43f2892cc33017$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$96151f43f2892cc33017.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$96151f43f2892cc33017.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$a0ff6a446f39a85d2b6a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$a0ff6a446f39a85d2b6a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/project/target/config-classes/$a0ff6a446f39a85d2b6a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$573aa7c8d62f4462feaf$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$573aa7c8d62f4462feaf.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$573aa7c8d62f4462feaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$5d19f1211a28bba15932$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$5d19f1211a28bba15932$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$5d19f1211a28bba15932.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$5d19f1211a28bba15932.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$6a99b08e84888d1c0d0d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$6a99b08e84888d1c0d0d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$6a99b08e84888d1c0d0d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$6a99b08e84888d1c0d0d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$79eb0747738f929c6128$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$79eb0747738f929c6128$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$79eb0747738f929c6128.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$79eb0747738f929c6128.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$b20b6103f688cf7b278a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$b20b6103f688cf7b278a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$b20b6103f688cf7b278a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$dfb4cd6d1198209ee124$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$dfb4cd6d1198209ee124$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$dfb4cd6d1198209ee124.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$dfb4cd6d1198209ee124.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$f7cf44c62169f8595eb3$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$f7cf44c62169f8595eb3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$f7cf44c62169f8595eb3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$f7cf44c62169f8595eb3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$f9afcb06c413500222fd$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$f9afcb06c413500222fd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$f9afcb06c413500222fd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/config-classes/$f9afcb06c413500222fd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/default/kazakh-business-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/default/kazakh-business-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-kazakh-business-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/src/main/resources/local.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/src/main/scala/Boot.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/src/main/scala/domain/DTO.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/src/main/scala/domain/JsonSupport.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/src/main/scala/repo/MovieDAO.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/src/main/scala/repo/MovieRepoImpl.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/src/main/scala/services/Core.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/Boot$.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/akka/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/akka/pattern/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/domain/CreateMovie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/domain/DeleteMovie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/domain/GetMovie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/domain/JsonSupport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/domain/Movie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/domain/ResponseMsg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/domain/UpdateMovie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/domain/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/MaterialIcons-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/MaterialIcons-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/MaterialIcons-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/abstract_type.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/class.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/class_comp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/class_diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/diagrams.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/diagrams.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/jquery.mousewheel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/jquery.panzoom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/lato-v11-latin-100.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/lato-v11-latin-100.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/lato-v11-latin-100.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/lato-v11-latin-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/lato-v11-latin-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/lato-v11-latin-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/modernizr.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/object.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/object_comp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/object_comp_trait.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/object_diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-400i.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-400i.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-400i.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-700i.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-700i.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-700i.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/open-sans-v13-latin-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/ownderbg2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/ownerbg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/ownerbg2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/package.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/ref-index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/scheduler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/source-code-pro-v6-latin-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/source-code-pro-v6-latin-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/source-code-pro-v6-latin-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/source-code-pro-v6-latin-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/source-code-pro-v6-latin-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/source-code-pro-v6-latin-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/tools.tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/trait.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/trait_comp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/trait_diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/lib/type_diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/repo/MovieDAO.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/repo/MovieRepo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/repo/MovieRepoImpl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/repo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/services/Core.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/api/services/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/Boot$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/Boot$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/Boot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/CreateMovie$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/CreateMovie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/DeleteMovie$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/DeleteMovie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/GetMovie$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/GetMovie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/JsonSupport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/Movie$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/ResponseMsg$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/ResponseMsg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/UpdateMovie$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/domain/UpdateMovie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/local.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/repo/MovieDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/repo/MovieRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/repo/MovieRepoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/services/Core$$anonfun$receive$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/classes/services/Core.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/kazakh-business_2.12-1.0.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/kazakh-business_2.12-1.0.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/kazakh-business_2.12-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/kazakh-business_2.12-1.0.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/default/kazakh-business$sources_2.12/1.0.0/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/default/kazakh-business$sources_2.12/1.0.0/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/default/kazakh-business_2.12/1.0.0/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/default/kazakh-business_2.12/1.0.0/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-debian.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-docker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-linux.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-rpm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-scoveragePlugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-universal-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-universal-src.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-universal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business$sources_2.12-windows.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-debian.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-docker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-linux.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-rpm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-scoveragePlugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-universal-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-universal-src.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-universal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/default-kazakh-business_2.12-windows.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/clean/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/makeBashScripts/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/makeBatScripts/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/makePom/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/mappings/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/ssExtractDependencies/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/doc/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/doc/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/doc/$global/streams/scala/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/doc/$global/streams/scala/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/mainClass/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/packageDoc/$global/streams/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/packageDoc/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/packageDoc/$global/streams/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/packageSrc/$global/streams/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/packageSrc/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/packageSrc/$global/streams/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/run/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/scalariformFormat/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/scalariformFormat/$global/streams/scalariform-preferences" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/scalariformFormat/$global/streams/scalariform/in-cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/scalariformFormat/$global/streams/scalariform/out-cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/streams/universal/dist/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/universal/kazakh-business-1.0.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/universal/scripts/scripts/kazakh-business" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kazakh-business/kazakh-business/target/universal/scripts/scripts/kazakh-business.bat" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -28,12 +422,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todo_back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo_back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo_back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo_back" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../myweb/todo_back" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,13 +473,9 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -77,9 +483,24 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
